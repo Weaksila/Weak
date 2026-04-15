@@ -1,0 +1,7 @@
+aiogram>=3.0.0
+python-dotenv
+groq
+matplotlib
+aiohttp
+gunicorn
+uvicorn
